@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroandradev&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroandradev)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroandradev&langs_count=5&bg_color=00000000)
 <!--
 **Sharkgsn/Sharkgsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
