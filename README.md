@@ -3,7 +3,7 @@
 - 🌱 Estou estudando React-Native e Kotlin
 - 📫 Você pode entrar em contato comigo pelo meu e-mail sharkgsn@gmail.com
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pedroandradev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/pedroandradev/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pedroandradev&card_width=500&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/pedroandradev/github-readme-stats#gh-dark-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroandradev&card_width=500&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)
 
 <div style="display: inline_block"><br>
