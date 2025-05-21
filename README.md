@@ -1,6 +1,4 @@
 ### Olá! Eu sou o Pedro Andrade👋
-- 🔭 Hoje estou pronto para trabalhar como Full Stack!
-- 🌱 Estou estudando React-Native e Kotlin
 - 📫 Você pode entrar em contato comigo pelo meu e-mail sharkgsn@gmail.com
 
 ##
