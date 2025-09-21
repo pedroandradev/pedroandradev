@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Pedro Andrade👋
-- 📫 Você pode entrar em contato comigo pelo meu e-mail sharkgsn@gmail.com
+- 📫 Você pode entrar em contato comigo pelo meu e-mail deve.pedroandrade@gmail.com
 
 ##
 
